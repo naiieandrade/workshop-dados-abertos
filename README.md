@@ -1,12 +1,13 @@
 # workshop-dados-abertos
 
+Instalar pip
 
 Instalar o venv
 
-`pyhton3 -m venv myenv`
+`python3 -m venv myenv`
 
 `myenv` foi o nome dado ao ambiente virtual.
-Pode ser alterado. E caso seja, é preciso alterar o .gitignore também. 
+Pode ser alterado. E caso seja, é preciso alterar o .gitignore também.
 
 
 `source myenv/bin/activate`
@@ -19,6 +20,7 @@ Pode ser alterado. E caso seja, é preciso alterar o .gitignore também.
 `jupyter notebook`
 
 vai abrir em uma página web o Jupyter.
+
 
 
 caso queira sair do ambiente virtual `deactivate`
